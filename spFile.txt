@@ -1,3 +1,14 @@
 sp line 1
 sp line 2
 sp line 3
+
+yp line 1
+yp line 2
+yp line 3
+
+
+zp line 1
+zp line 2
+zp line 3
+
+
